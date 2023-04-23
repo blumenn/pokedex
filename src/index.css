@@ -1,0 +1,10 @@
+header nav{
+    display: flex;
+    justify-content: right;
+    margin: 0 auto;
+  }
+
+  .links{
+    display: flex;
+    justify-content: space-evenly;
+  }
